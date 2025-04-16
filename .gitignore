@@ -1,0 +1,5 @@
+config.json
+comands
+/__pycache__/
+/.vscode/
+*/__pycache__/*
